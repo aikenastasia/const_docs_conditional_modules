@@ -1,7 +1,7 @@
 //// Task: Create `answer/constants`
 
 use aiken/collection/list
-use modules/constants
+use answer/constants
 
 test int() {
   // Task: Define `const posix_time` in `answer/constants`
